@@ -177,3 +177,5 @@ cython_debug/
 # gitignore files
 /data
 /descriptions
+/figures
+
